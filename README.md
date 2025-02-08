@@ -1,1 +1,1 @@
-# ~~N3$A ~~'s Neofetch configuration
+# ~~N3$A~~ 's Neofetch configuration
