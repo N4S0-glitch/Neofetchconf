@@ -1,6 +1,5 @@
-# ~~N3$A~~ 's Neofetch configuration
+# N3$A's Config file
 
-For sure this is not a stupid ahh configuration :sob: :pray:
+# WARNING! MOST OF THE RICE IS NOT MINE.
+Credit to  https://github.com/elifouts/Dotfiles/tree/main for hyprland.conf and waybar with more cool stuff 👍.
 
-BTW THIS CONFIG IS NOT MINE!!
-I don't remember the guy im still searching for him :<
