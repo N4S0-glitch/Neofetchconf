@@ -1,0 +1,28 @@
+{
+    "checksum": "c77ca219f0f67d78ef4d4d44ab23461c",
+    "wallpaper": "/home/n3sa/Wallpapers/room.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0d0c12",
+        "foreground": "#c2c2c3",
+        "cursor": "#c2c2c3"
+    },
+    "colors": {
+        "color0": "#0d0c12",
+        "color1": "#335660",
+        "color2": "#315562",
+        "color3": "#4B4D56",
+        "color4": "#566065",
+        "color5": "#6D7070",
+        "color6": "#8D7169",
+        "color7": "#c2c2c3",
+        "color8": "#58586c",
+        "color9": "#335660",
+        "color10": "#315562",
+        "color11": "#4B4D56",
+        "color12": "#566065",
+        "color13": "#6D7070",
+        "color14": "#8D7169",
+        "color15": "#c2c2c3"
+    }
+}

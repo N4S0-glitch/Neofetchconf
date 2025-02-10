@@ -1,0 +1,28 @@
+{
+    "checksum": "7d0941c980fbd7f58340ac540e238355",
+    "wallpaper": "/home/n3sa/Wallpapers/2/Snow.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#121519",
+        "foreground": "#c3c4c5",
+        "cursor": "#c3c4c5"
+    },
+    "colors": {
+        "color0": "#121519",
+        "color1": "#3B698A",
+        "color2": "#3F77A1",
+        "color3": "#477796",
+        "color4": "#487EA1",
+        "color5": "#6194AD",
+        "color6": "#5F9DC1",
+        "color7": "#c3c4c5",
+        "color8": "#5c6470",
+        "color9": "#3B698A",
+        "color10": "#3F77A1",
+        "color11": "#477796",
+        "color12": "#487EA1",
+        "color13": "#6194AD",
+        "color14": "#5F9DC1",
+        "color15": "#c3c4c5"
+    }
+}

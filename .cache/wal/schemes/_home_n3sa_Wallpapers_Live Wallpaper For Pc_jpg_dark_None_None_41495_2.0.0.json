@@ -1,0 +1,28 @@
+{
+    "checksum": "3da4eeb4d5a179e83b7ebdc6290aee6a",
+    "wallpaper": "/home/n3sa/Wallpapers/Live Wallpaper For Pc.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#22100c",
+        "foreground": "#c7c3c2",
+        "cursor": "#c7c3c2"
+    },
+    "colors": {
+        "color0": "#22100c",
+        "color1": "#DA916F",
+        "color2": "#AFA698",
+        "color3": "#D99A8A",
+        "color4": "#EFAD94",
+        "color5": "#F3B9A5",
+        "color6": "#F1CDB0",
+        "color7": "#c7c3c2",
+        "color8": "#72605d",
+        "color9": "#DA916F",
+        "color10": "#AFA698",
+        "color11": "#D99A8A",
+        "color12": "#EFAD94",
+        "color13": "#F3B9A5",
+        "color14": "#F1CDB0",
+        "color15": "#c7c3c2"
+    }
+}

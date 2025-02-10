@@ -1,0 +1,28 @@
+{
+    "checksum": "b8a8b653cda9adbd8918e8112489101e",
+    "wallpaper": "/home/n3sa/Wallpapers/Monster.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0e0f10",
+        "foreground": "#c2c3c3",
+        "cursor": "#c2c3c3"
+    },
+    "colors": {
+        "color0": "#0e0f10",
+        "color1": "#6F7070",
+        "color2": "#7F807F",
+        "color3": "#8F8F8F",
+        "color4": "#9FA0A0",
+        "color5": "#ACADAC",
+        "color6": "#BEC0C0",
+        "color7": "#c2c3c3",
+        "color8": "#586c6c",
+        "color9": "#6F7070",
+        "color10": "#7F807F",
+        "color11": "#8F8F8F",
+        "color12": "#9FA0A0",
+        "color13": "#ACADAC",
+        "color14": "#BEC0C0",
+        "color15": "#c2c3c3"
+    }
+}

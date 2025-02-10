@@ -1,0 +1,28 @@
+{
+    "checksum": "a91d767108fbca7b27b7715a870d1e74",
+    "wallpaper": "/home/n3sa/Wallpapers/car.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#1b1008",
+        "foreground": "#c6c3c1",
+        "cursor": "#c6c3c1"
+    },
+    "colors": {
+        "color0": "#1b1008",
+        "color1": "#BC643A",
+        "color2": "#9C6E4D",
+        "color3": "#B58A64",
+        "color4": "#D89867",
+        "color5": "#668F88",
+        "color6": "#DBB99A",
+        "color7": "#c6c3c1",
+        "color8": "#6e625a",
+        "color9": "#BC643A",
+        "color10": "#9C6E4D",
+        "color11": "#B58A64",
+        "color12": "#D89867",
+        "color13": "#668F88",
+        "color14": "#DBB99A",
+        "color15": "#c6c3c1"
+    }
+}

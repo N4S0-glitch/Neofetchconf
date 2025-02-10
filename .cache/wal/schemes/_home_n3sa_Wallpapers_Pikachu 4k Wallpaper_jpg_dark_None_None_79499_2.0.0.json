@@ -1,0 +1,28 @@
+{
+    "checksum": "8e1f6342c13967088cc3e57cc5f9180d",
+    "wallpaper": "/home/n3sa/Wallpapers/Pikachu 4k Wallpaper.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#121210",
+        "foreground": "#c3c3c3",
+        "cursor": "#c3c3c3"
+    },
+    "colors": {
+        "color0": "#121210",
+        "color1": "#728C23",
+        "color2": "#6E8E64",
+        "color3": "#BCC439",
+        "color4": "#96A164",
+        "color5": "#EBEE5D",
+        "color6": "#4C6689",
+        "color7": "#c3c3c3",
+        "color8": "#6d6d59",
+        "color9": "#728C23",
+        "color10": "#6E8E64",
+        "color11": "#BCC439",
+        "color12": "#96A164",
+        "color13": "#EBEE5D",
+        "color14": "#4C6689",
+        "color15": "#c3c3c3"
+    }
+}

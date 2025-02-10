@@ -1,0 +1,28 @@
+{
+    "checksum": "01a97bfce0cf3505c3571d73854d7e6e",
+    "wallpaper": "/home/n3sa/Wallpapers/Purple.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0a0916",
+        "foreground": "#c1c1c4",
+        "cursor": "#c1c1c4"
+    },
+    "colors": {
+        "color0": "#0a0916",
+        "color1": "#936AB8",
+        "color2": "#9970D2",
+        "color3": "#D278C6",
+        "color4": "#628AD6",
+        "color5": "#EB9AB4",
+        "color6": "#D8AEBC",
+        "color7": "#c1c1c4",
+        "color8": "#59596c",
+        "color9": "#936AB8",
+        "color10": "#9970D2",
+        "color11": "#D278C6",
+        "color12": "#628AD6",
+        "color13": "#EB9AB4",
+        "color14": "#D8AEBC",
+        "color15": "#c1c1c4"
+    }
+}

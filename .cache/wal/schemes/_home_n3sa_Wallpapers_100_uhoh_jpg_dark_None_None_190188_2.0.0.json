@@ -1,0 +1,28 @@
+{
+    "checksum": "7467b45d2ac8bb806298fc856488728d",
+    "wallpaper": "/home/n3sa/Wallpapers/100/uhoh.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#050914",
+        "foreground": "#c0c1c4",
+        "cursor": "#c0c1c4"
+    },
+    "colors": {
+        "color0": "#050914",
+        "color1": "#666778",
+        "color2": "#596C88",
+        "color3": "#6A7791",
+        "color4": "#677EA1",
+        "color5": "#6D819D",
+        "color6": "#6F87A7",
+        "color7": "#c0c1c4",
+        "color8": "#575d6a",
+        "color9": "#666778",
+        "color10": "#596C88",
+        "color11": "#6A7791",
+        "color12": "#677EA1",
+        "color13": "#6D819D",
+        "color14": "#6F87A7",
+        "color15": "#c0c1c4"
+    }
+}

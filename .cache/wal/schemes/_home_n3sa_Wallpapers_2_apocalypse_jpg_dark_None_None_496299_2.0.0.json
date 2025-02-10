@@ -1,0 +1,28 @@
+{
+    "checksum": "a1e1e2565d9bb517aea00552990d603e",
+    "wallpaper": "/home/n3sa/Wallpapers/2/apocalypse.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#100f0d",
+        "foreground": "#c3c3c2",
+        "cursor": "#c3c3c2"
+    },
+    "colors": {
+        "color0": "#100f0d",
+        "color1": "#767369",
+        "color2": "#837C70",
+        "color3": "#7F8078",
+        "color4": "#89857A",
+        "color5": "#AA8F79",
+        "color6": "#979488",
+        "color7": "#c3c3c2",
+        "color8": "#6b6b58",
+        "color9": "#767369",
+        "color10": "#837C70",
+        "color11": "#7F8078",
+        "color12": "#89857A",
+        "color13": "#AA8F79",
+        "color14": "#979488",
+        "color15": "#c3c3c2"
+    }
+}

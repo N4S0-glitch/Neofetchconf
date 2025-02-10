@@ -1,0 +1,28 @@
+{
+    "checksum": "89149db941efde81629f690d7c34369e",
+    "wallpaper": "/home/n3sa/Wallpapers/red.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0B0202",
+        "foreground": "#c2bfbf",
+        "cursor": "#c2bfbf"
+    },
+    "colors": {
+        "color0": "#0B0202",
+        "color1": "#D00B08",
+        "color2": "#F00B05",
+        "color3": "#E52C28",
+        "color4": "#B66363",
+        "color5": "#9C807E",
+        "color6": "#A5A09F",
+        "color7": "#c2bfbf",
+        "color8": "#665353",
+        "color9": "#D00B08",
+        "color10": "#F00B05",
+        "color11": "#E52C28",
+        "color12": "#B66363",
+        "color13": "#9C807E",
+        "color14": "#A5A09F",
+        "color15": "#c2bfbf"
+    }
+}

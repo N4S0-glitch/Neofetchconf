@@ -1,0 +1,28 @@
+{
+    "checksum": "a546d8368c493759dfd3e9f9fc30b515",
+    "wallpaper": "/home/n3sa/Wallpapers/2/grass.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#1f3e2d",
+        "foreground": "#c7ceca",
+        "cursor": "#c7ceca"
+    },
+    "colors": {
+        "color0": "#1f3e2d",
+        "color1": "#63949B",
+        "color2": "#6A9FCC",
+        "color3": "#99AD9D",
+        "color4": "#B2C7A4",
+        "color5": "#DBD99B",
+        "color6": "#91B3D7",
+        "color7": "#c7ceca",
+        "color8": "#6b8275",
+        "color9": "#63949B",
+        "color10": "#6A9FCC",
+        "color11": "#99AD9D",
+        "color12": "#B2C7A4",
+        "color13": "#DBD99B",
+        "color14": "#91B3D7",
+        "color15": "#c7ceca"
+    }
+}

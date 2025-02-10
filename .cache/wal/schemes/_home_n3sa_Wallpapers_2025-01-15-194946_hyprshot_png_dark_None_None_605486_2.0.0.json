@@ -1,0 +1,28 @@
+{
+    "checksum": "7d50d0ebbacd4509fe62382a6fe03fa9",
+    "wallpaper": "/home/n3sa/Wallpapers/2025-01-15-194946_hyprshot.png",
+    "alpha": "100",
+    "special": {
+        "background": "#071E51",
+        "foreground": "#c1c6d3",
+        "cursor": "#c1c6d3"
+    },
+    "colors": {
+        "color0": "#071E51",
+        "color1": "#2847D5",
+        "color2": "#2E4EEF",
+        "color3": "#4F53F8",
+        "color4": "#645BF6",
+        "color5": "#9C6BFC",
+        "color6": "#CD7BFD",
+        "color7": "#c1c6d3",
+        "color8": "#697080",
+        "color9": "#2847D5",
+        "color10": "#2E4EEF",
+        "color11": "#4F53F8",
+        "color12": "#645BF6",
+        "color13": "#9C6BFC",
+        "color14": "#CD7BFD",
+        "color15": "#c1c6d3"
+    }
+}
